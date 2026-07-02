@@ -47,7 +47,7 @@ con Don Diego y con La Tota, alentándolo a Lionel
 
 Estudiante B edita letra.txt (sobre la misma versión base que A) y agrega al final su versión:
 
-ero eso se terminó,porque en Qatar,  
+Pero eso se terminó,porque en Qatar,  
 la final con los franceses la volvió a ganar papá.  
 
 Muchachos, ahora solo queda festejar,  
